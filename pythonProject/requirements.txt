@@ -1,0 +1,4 @@
+Flask>=2.2.2
+PyJWT==2.6.0
+requests==2.31.0
+cryptography==41.0.3  # Ensure cryptography is installed for RS256
